@@ -1,0 +1,22 @@
+.tower{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    border: 1px solid black;
+}
+.tower-container{
+    display: inline-block;
+    width: 100px;
+    border: 1px dotted lightblue;
+    vertical-align: bottom;
+    background-color: lightblue;
+}
+h1, h2{
+    
+    text-align: center;
+    position: absolute;
+}
+.red{
+    color: red;
+}
